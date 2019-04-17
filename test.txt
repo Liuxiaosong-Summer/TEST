@@ -4,3 +4,6 @@ int main () {
 	cout<<"HELLO WORLD"<<endl;
 	return o;
 }
+
+
+This sequence is copy https://blog.csdn.net/liuweixiao520/article/details/78971221
