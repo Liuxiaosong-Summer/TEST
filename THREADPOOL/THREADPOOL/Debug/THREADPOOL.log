@@ -1,0 +1,30 @@
+﻿生成启动时间为 2019/6/2 12:45:27。
+     1>项目“C:\Users\Summer\Documents\代码文档\c++ 代码\THREADPOOL\THREADPOOL\THREADPOOL.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Users\Summer\Downloads\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Listcpp.cpp Mutex.cpp Queue.cpp Stack.cpp Thread.cpp ThreadPool.cpp main.cpp
+         Queue.cpp
+         Mutex.cpp
+         正在生成代码...
+         正在编译...
+         main.cpp
+         ThreadPool.cpp
+         Thread.cpp
+         Stack.cpp
+         Listcpp.cpp
+         正在生成代码...
+       Link:
+         C:\Users\Summer\Downloads\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Summer\Documents\代码文档\c++ 代码\THREADPOOL\Debug\THREADPOOL.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Summer\Documents\代码文档\c++ 代码\THREADPOOL\Debug\THREADPOOL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Summer\Documents\代码文档\c++ 代码\THREADPOOL\Debug\THREADPOOL.lib" /MACHINE:X86 Debug\Listcpp.obj
+         Debug\main.obj
+         Debug\Mutex.obj
+         Debug\Queue.obj
+         Debug\Stack.obj
+         Debug\Task.obj
+         Debug\Testtask.obj
+         Debug\Thread.obj
+         Debug\ThreadPool.obj
+         THREADPOOL.vcxproj -> C:\Users\Summer\Documents\代码文档\c++ 代码\THREADPOOL\Debug\THREADPOOL.exe
+     1>已完成生成项目“C:\Users\Summer\Documents\代码文档\c++ 代码\THREADPOOL\THREADPOOL\THREADPOOL.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.18
